@@ -37,9 +37,4 @@
 | 📦 Database | Firestore + MySQL (Laravel) |
 | 🤖 ML Model | TensorFlow Lite (Facial Emotion) |
 
----
-
-### 📸 Screenshots
-
-> Add screenshots of the main UI screens here (Home, Mood Tracker, Emotion Result, etc.)
 
