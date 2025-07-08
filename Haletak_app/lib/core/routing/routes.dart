@@ -1,0 +1,31 @@
+class Routes {
+  static const String splashScreen = '/splashScreen';
+  static const String onBoardingScreen = '/onBoardingScreen';
+  static const String loginScreen = '/loginScreen';
+  static const String registerScreen = '/registerScreen';
+  static const String homeScreen = '/homeScreen';
+  static const String moodCheckInScreen = '/moodCheckInScreen';
+  static const String notFoundScreen = '/not-foundScreen';
+  static const String addNoteScreen = '/AddNoteScreen';
+  static const String notesHistoryScreen = '/notesHistoryScreen';
+  static const String moodReasonScreen = '/moodReasonScreen';
+  static const String noteList = '/noteList';
+  static const String healthGoalScreen = '/healthGoalScreen';
+  static const String genderSelectionScreen = '/genderSelectionScreen';
+  static const String ageSelectionScreen = '/ageSelectionScreen';
+  static const String weightSelection = '/weightSelection';
+  static const String professionalHelpQuestion = '/professionalHelpQuestion';
+  static const String physicalExpScreen = '/physicalExpScreen';
+  static const String sleepQualityScreen = '/sleepQualityScreen';
+  static const String medicationScreen = '/medicationScreen';
+  static const String medicationListScreen = '/medicationListScreen';
+  static const String mentalHealthSymptom = '/mentalHealthSymptom';
+  static const String userStressLevel = '/UserStressLevel';
+  static const String aiSoundAnalysisScreen = '/aiSoundAnalysisScreen';
+  static const String addJournalScreen = '/addJournalScreen';
+  static const String journalListScreen = '/journalListScreen';
+  static const String cameraModel = '/cameraModel';
+  static const String moodStatsScreen = '/moodStatsScreen';
+  static const String chatbotScreen = '/chatbotScreen';
+  static const String heartRateScreen = '/heartRateScreen';
+}

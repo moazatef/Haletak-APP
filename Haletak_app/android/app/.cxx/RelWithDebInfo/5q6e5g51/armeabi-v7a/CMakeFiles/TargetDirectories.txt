@@ -1,0 +1,2 @@
+C:/Users/moaza/Aluna/aluna_app/android/app/.cxx/RelWithDebInfo/5q6e5g51/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/moaza/Aluna/aluna_app/android/app/.cxx/RelWithDebInfo/5q6e5g51/armeabi-v7a/CMakeFiles/rebuild_cache.dir
