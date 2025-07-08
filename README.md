@@ -9,6 +9,12 @@
 
 ---
 
+### 🌐 Official Website  
+🎯 **Download Haletak from the official website:**  
+👉 [https://moazatef.github.io/Haltek-Website/](https://moazatef.github.io/Haltek-Website/)
+
+---
+
 ### 🧠 About
 
 **Haletak** is a mobile application designed to help users track, analyze, and improve their mental well-being. With a blend of technology, design, and empathy, Haletak empowers users to self-reflect, understand their emotions, and seek balance through personalized mood tracking and insights.
@@ -36,5 +42,7 @@
 | ☁️ Cloud    | Firebase (ML, Auth, Firestore) |
 | 📦 Database | Firestore + MySQL (Laravel) |
 | 🤖 ML Model | TensorFlow Lite (Facial Emotion) |
+
+---
 
 
