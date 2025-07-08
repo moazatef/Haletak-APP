@@ -43,6 +43,36 @@
 | 📦 Database | Firestore + MySQL (Laravel) |
 | 🤖 ML Model | TensorFlow Lite (Facial Emotion) |
 
+
+### 📌 To Do
+
+- [x] Mood check-in UI  
+- [x] Heart rate analyzer  
+- [x] Emotion detection via selfie  
+- [ ] Push notifications  
+- [ ] User mood goals & reminders  
+- [ ] AI-based journal suggestion  
+
 ---
 
+### 👨‍💻 Author
+
+**Moaz Atef**  
+📫 [moazsaady6@gmail.com](mailto:moazsaady6@gmail.com)  
+💻 Software Engineer | Mobile Developer  
+🌐 [Official Website](https://moazatef.github.io/Haltek-Website/)
+
+---
+
+### ⭐️ Contribute
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+### 📃 License
+
+This project is licensed under the MIT License.
+
+---
 
